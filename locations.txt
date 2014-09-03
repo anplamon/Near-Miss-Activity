@@ -1,0 +1,12 @@
+wire: 228,170
+stair: 149,350
+guy: 110,360
+metal: 230,430
+barrel: 30,550
+bag: 280,610
+hat: 90,530
+tag: 140,480
+plank: 470,589
+rope: 420,617
+shovel: 260,460
+barrier: 300,579
